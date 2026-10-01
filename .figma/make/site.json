@@ -1,0 +1,11 @@
+{
+  "title": "Material Handling Equipment, Forklift Service & Spares in Chennai | SRS",
+  "description": "SRS provides equipment supply, forklift servicing, spare parts and specialized material handling solutions for industrial and warehouse operations in Chennai.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
